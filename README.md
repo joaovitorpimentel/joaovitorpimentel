@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-almeida-pimentel-831787186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/joaovitorpimentel/joaovitorpimentel/blob/output/github-contribution-grid-snake.svg)
   
 </div
