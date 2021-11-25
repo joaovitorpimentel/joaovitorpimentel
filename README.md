@@ -20,7 +20,7 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Joao-pic" height="330" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89042046/143495726-363b8ab0-7b5c-40b8-bb1c-6007aaac462d.gif">
+  <img align="right" alt="Joao-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89042046/143495726-363b8ab0-7b5c-40b8-bb1c-6007aaac462d.gif">
 </div>
 
   ##
