@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando C# e .NET
-- 🍔🍟 Curto um lanche
+- 🍔🍟 Curto um lanche.
 
 <div align="center">
   <a href="https://github.com/joaovitorpimentel">
