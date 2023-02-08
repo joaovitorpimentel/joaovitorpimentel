@@ -1,9 +1,9 @@
 ### Olá! Eu sou o João Pimentel
 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando C# e .NET
-- 🍔🍟 Curto um lanche
+- 🔭 Hoje sou estudante de Front-End
+- 🌱 Estudando HTML | CSS | JavaScript 
+- 🍔🍟 Adoro comer
 
 <div align="center">
   <a href="https://github.com/joaovitorpimentel">
