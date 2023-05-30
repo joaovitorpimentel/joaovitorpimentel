@@ -16,7 +16,9 @@
   <img align="right" alt="Joao-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89042046/143498060-63714d46-b620-4eb4-b609-7438150abe7a.png">
 </div>
 
+
   ##
+
 
 <div>
    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-almeida-pimentel-831787186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
