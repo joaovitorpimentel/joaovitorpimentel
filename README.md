@@ -1,9 +1,9 @@
 ### Olá! Eu sou o João Pimentel
 
 
-- 🔭 Hoje sou estudante de Front-End
-- 🌱 Estudando HTML | CSS | JavaScript 
-- 🍔🍟 Adoro comer
+- 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 
+- 🌱 No momento estou me especializando em Angular e React.
+- 🍔🍟 
 
 
   
