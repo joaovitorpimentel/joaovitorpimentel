@@ -5,7 +5,7 @@
 - 🌱 No momento estou me desenvolvendo em html, css e javascript.
 - 🔭 No Futuro quero me especializar em React.
 - 🍔🍟 
-
+ 
   
    
   
