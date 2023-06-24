@@ -6,7 +6,7 @@
 - 🔭 No Futuro quero me especializar em React.
 - 🍔🍟 
 
-
+ 
    
   
  <div style="display: inline_block"><br>
