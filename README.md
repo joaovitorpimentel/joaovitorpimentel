@@ -3,7 +3,6 @@
   
 - 🧍‍♂️ Este é meu portifólio que contém a minha história como Desenvolvedor! 
 - 🌱 No momento estou me desenvolvendo em html, css e javascript.
-- 🔭 No Futuro quero me especializar em React.
 - 🍔🍟 
  
    
