@@ -2,7 +2,7 @@
             
     
 - 🧍‍♂️ Este é meu portifólio que contém a minha história como Desenvolvedor! 
-- 🌱 No momento estou me desenvolvendo Java, Spring Boot, etc.
+- 🌱 No momento estou me desenvolvendo Defesa Cibernética, mas aberto à estudar e me apronfundar em outras áreas.
 - 🍔🍟      
                                        
                                                        
